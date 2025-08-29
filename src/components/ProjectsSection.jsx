@@ -3,30 +3,30 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    title: "Ai assistant",
+    description: "Conversational AI assistant for daily tasks.",
+    image: "https://thfvnext.bing.com/th/id/OIP.Bzfl7L97KsSNq-YDwknp4wHaD4?w=334&h=180&c=7&r=0&o=5&cb=thfvnext&pid=1.7",
+    tags: ["React", "TailwindCSS", "Node.js","express"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/hellobrohellobro-tech/GPT_app.git",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Gemini clone",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+      "AI-powered Gemini chartbot clone project",
+    image: "https://thfvnext.bing.com/th/id/OIP.3-c86KSiUwB6zI7iLvCqUAHaEK?w=264&h=180&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3",
+    tags: ["React", "Node.js","tailwind"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/hellobrohellobro-tech/Gemini_clone.git",
   },
   {
     id: 3,
     title: "E-commerce Platform",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "Full-featured e-commerce platform with user authentication and product creation.",
+    image: "https://thfvnext.bing.com/th/id/OIP.K1n3vhUji6gAfgNCKSvdNAHaDj?w=310&h=168&c=7&r=0&o=5&cb=thfvnext&pid=1.7",
+    tags: ["React", "Node.js","tailwind"],
     demoUrl: "#",
     githubUrl: "#",
   },
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/hellobrohellobro-tech"
           >
             Check My Github <ArrowRight size={16} />
           </a>

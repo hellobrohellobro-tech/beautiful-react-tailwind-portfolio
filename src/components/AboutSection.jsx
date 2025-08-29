@@ -16,9 +16,9 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              Enthusiastic developer skilled in backend and MERN stack technologies.
+              Passionate about building clean, scalable, and efficient web applications.
+              Eager to learn and grow in a professional environment.
             </p>
 
             <p className="text-muted-foreground">
@@ -64,11 +64,11 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">AI & Intelligent Systems</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Exploring the world of artificial intelligence with a focus on machine learning, data-driven solutions, and smart automation to build intelligent and adaptive applications.
                   </p>
+
                 </div>
               </div>
             </div>
